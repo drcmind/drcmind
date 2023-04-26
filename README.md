@@ -1,4 +1,4 @@
-- 👋 Hi there, DrcMind is an educational platform that teaches developers to build the apps users love.
+- 👋 Hi there, DrcMind is an educational platform that teaches developers to build the apps that users love.
 - 👀 We’are interested in these techs (Angular, Jetpack Compose, Flutter, Firebase, ReactJS, Astro, TailwindCss, NodeJs, Laravel)
 - 🌱 Our team (@amanibisimwa, @LouisMusole, @AlainCis, @marcellintacite)
 - 💞️ We collaborate on JavaScript projects (Frontend & Backend).
