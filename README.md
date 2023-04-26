@@ -1,5 +1,5 @@
-- 👋 Hi there, DrcMind platform
-- 👀 We’are interested in the Google techs (Angular, Jetpack Compose, Flutter and Firebase)
-- 🌱 I’m currently learning Google Cloud on GADS22 program...
-- 💞️ We're looking to collaborate on JavaScript projects (Frontend & Backend).
+- 👋 Hi there, DrcMind is an educational platform that teaches developers to build the apps users love.
+- 👀 We’are interested in these techs (Angular, Jetpack Compose, Flutter, Firebase, ReactJS, Astro, TailwindCss, NodeJs, Laravel)
+- 🌱 Our team (@amanibisimwa, @LouisMusole, @AlainCis, @marcellintacite)
+- 💞️ We collaborate on JavaScript projects (Frontend & Backend).
 - 📫 Get touch with us at drcmindfrench@gmail.com or on @drcmin2 twitter handle...
