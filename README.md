@@ -1,5 +1,5 @@
 - 👋 Hi there, [DrcMind](https://drcmind.com) is an educational platform that teaches frech-speaking developers to build the apps that users love.
 - 👀 We’are interested in these techs (Angular, Jetpack Compose, Flutter, Firebase, NextJS, TailwindCss)
 - 🌱 Our team ([Amani Bisimwa](https://github.com/amanibisimwa), [Louis Musole](https://github.com/LouisMusole), [Marcellin Tacite](https://github.com/marcellintacite))
-- 💞️ We collaborate on some web and mobile projects (Frontend & Backend).
+- 💞️ We collaborate on web and mobile projects (Frontend & Backend).
 - 📫 Get touch with us at drcmindfrench@gmail.com or on @drcmin2 twitter handle...
