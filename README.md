@@ -15,24 +15,21 @@
     <p>
     - 🔭 We are currently working on :
     <ul>
-      <li><a href="https://drcmind.com">DrcMind</a></li>, <span>Learning Management System<span/>
-      <li> <a href="https://yakando.web.app">YaKando</a></li>, <span>Marteking platform<span/>
-      <li><a href="https://je-gere.web.app">JeGere</a></li>, <span>Management Software Package<span/> 
+      <li><a href="https://drcmind.com">DrcMind</a>, Learning Management System</li>
+      <li> <a href="https://yakando.web.app">YaKando</a>, Marteking platform</li>
+      <li><a href="https://je-gere.web.app">JeGere</a>, Management Software Package</li>
      <ul/>   
     <br/>
     - 👨‍💻 Our Team:
-        <ul>
+    <ul>
       <li><a href="https://github.com/amanibisimwa">Amani Bisimwa</a></li>, <span>Web developer [AngularFire expert]<span/>
       <li> <a href="https://github.com/marcellintacite">Marcellin Tacite</a></li>, <span>Web developer [Nextjs ninja]<span/>
       <li><a href="https://github.com/LouisMusole">Louis Musole</a></li>, <span>Mobile developer [Jetpack Compose expert]<span/> 
-     <ul/> 
+    <ul/> 
     <br />
     <a href="https://github.com/drcmind/drcmind">View Demo</a>
-    .
   </p>
 </p>
-
-
 
 ## About The Project
 
