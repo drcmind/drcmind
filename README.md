@@ -27,7 +27,7 @@
   </p>
 </p>
 
-## About The Project
+## About us
 
 ![Screen Shot](https://utfs.io/f/1566a449-267a-424a-ba61-91ea950b3853-fznrx9.png)
 
