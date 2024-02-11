@@ -7,10 +7,9 @@
     <img src="https://avatars.githubusercontent.com/u/61004318?v=4" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Welcome at DrcMind</h3>
+  <h3 align="center">Welcome to DrcMind</h3>
 
-  <p align="center">
-    We teach and build products that users love</p>
+  <p align="center"> We teach and build products that users love</p>
     <br/>
     <p>
     - 🔭 We are currently working on :
@@ -18,16 +17,13 @@
       <li><a href="https://drcmind.com">DrcMind</a>, Learning Management System</li>
       <li> <a href="https://yakando.web.app">YaKando</a>, Marteking platform</li>
       <li><a href="https://je-gere.web.app">JeGere</a>, Management Software Package</li>
-     <ul/>   
-    <br/>
-    - 👨‍💻 Our Team:
-    <ul>
+      <br/>
+    👨‍💻 Our Team: 
       <li><a href="https://github.com/amanibisimwa">Amani Bisimwa</a></li>, <span>Web developer [AngularFire expert]<span/>
       <li> <a href="https://github.com/marcellintacite">Marcellin Tacite</a></li>, <span>Web developer [Nextjs ninja]<span/>
       <li><a href="https://github.com/LouisMusole">Louis Musole</a></li>, <span>Mobile developer [Jetpack Compose expert]<span/> 
-    <ul/> 
+     <ul/>   
     <br />
-    <a href="https://github.com/drcmind/drcmind">View Demo</a>
   </p>
 </p>
 
@@ -35,8 +31,9 @@
 
 ![Screen Shot](https://utfs.io/f/1566a449-267a-424a-ba61-91ea950b3853-fznrx9.png)
 
-DrcMind is an educational platform that focuses on teaching French-speaking developers how to build user-friendly software applications. We specialize in various technologies like Angular, Jetpack Compose, Flutter, Firebase, NextJS, and TailwindCss.
-Beside of teaching. we build products and solutions for community & clients.
+DrcMind is an educational platform that focuses on teaching French-speaking developers how to build user-friendly software applications.
+We are specialize in various technologies like Angular, Jetpack Compose, Flutter, Firebase, NextJS, and TailwindCss.
+Beside of teaching, we build products and solutions for our community & clients.
 
 ## Contributing
 
