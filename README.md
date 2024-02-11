@@ -9,8 +9,8 @@
 
 ![Screen Shot](https://utfs.io/f/1566a449-267a-424a-ba61-91ea950b3853-fznrx9.png)
 
-DrcMind is an educational platform that focuses on teaching French-speaking developers how to build user-friendly software applications.
-We are specialize in various technologies like Angular, Jetpack Compose, Flutter, Firebase, NextJS, and TailwindCss.
+DrcMind is an educational platform that focuses on teaching French-speaking developers how to build user-friendly software applications. <br/>
+We are specialized in various technologies like Angular, Jetpack Compose, Flutter, Firebase, NextJS, and TailwindCss.
 Beside of teaching, we build products and solutions for our community & clients.
     <br/>
     <p>
