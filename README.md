@@ -15,9 +15,9 @@
     <p>
     - 🔭 We are currently working on :
     <ul>
-      <li> [Yakando](https://yakando.web.app/)</li>
-      <li> [ Je-gere ](https://je-gere.web.app/)</li>
-      <li> [ DrcMind ](https://drcmind.com/)</li>
+      <li><a href="https://drcmind.com">DrcMind</a></li>
+      <li> <a href="https://yakando.web.app">Yakando</a></li>
+      <li><a href="https://je-gere.web.app">JeGere</a></li>
     <br/>
     - 👨‍💻 Our Team : 🌱 Our team ( [Amani Bisimwa] (https://github.com/amanibisimwa), [Louis Musole] (https://github.com/LouisMusole), [Marcellin Tacite](https://github.com/marcellintacite))
     <br />
