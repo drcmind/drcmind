@@ -20,7 +20,7 @@ Beside of teaching, we build products and solutions for our community & clients.
       <li> <a href="https://yakando.web.app">YaKando</a>, Marteking platform</li>
       <li><a href="https://je-gere.web.app">JeGere</a>, Management Software Package</li>
       <br/>
-    👨‍💻 Our Team: 
+  👨‍💻 Our Team: 
       <li><a href="https://github.com/amanibisimwa">Amani Bisimwa</a>, Web developer [AngularFire expert]</li>
       <li> <a href="https://github.com/marcellintacite">Marcellin Tacite</a>, Web developer [Nextjs ninja]</li>
       <li><a href="https://github.com/LouisMusole">Louis Musole</a>, Mobile developer [Jetpack Compose expert]</li>
