@@ -19,9 +19,9 @@
       <li><a href="https://je-gere.web.app">JeGere</a>, Management Software Package</li>
       <br/>
     👨‍💻 Our Team: 
-      <li><a href="https://github.com/amanibisimwa">Amani Bisimwa</a></li>, <span>Web developer [AngularFire expert]<span/>
-      <li> <a href="https://github.com/marcellintacite">Marcellin Tacite</a></li>, <span>Web developer [Nextjs ninja]<span/>
-      <li><a href="https://github.com/LouisMusole">Louis Musole</a></li>, <span>Mobile developer [Jetpack Compose expert]<span/> 
+      <li><a href="https://github.com/amanibisimwa">Amani Bisimwa</a>, Web developer [AngularFire expert]</li>
+      <li> <a href="https://github.com/marcellintacite">Marcellin Tacite</a>, Web developer [Nextjs ninja]</li>
+      <li><a href="https://github.com/LouisMusole">Louis Musole</a>, Mobile developer [Jetpack Compose expert]</li>
      <ul/>   
     <br />
   </p>
