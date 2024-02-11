@@ -7,8 +7,6 @@
 
   <p align="center"> We teach and build products that users love</p>
 
-  ## About us
-
 ![Screen Shot](https://utfs.io/f/1566a449-267a-424a-ba61-91ea950b3853-fznrx9.png)
 
 DrcMind is an educational platform that focuses on teaching French-speaking developers how to build user-friendly software applications.
