@@ -1,7 +1,3 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-
-
-<br/>
 <p align="center">
   <a href="https://github.com/drcmind/drcmind">
     <img src="https://avatars.githubusercontent.com/u/61004318?v=4" alt="Logo" width="80" height="80">
@@ -10,6 +6,14 @@
   <h3 align="center">Welcome to DrcMind</h3>
 
   <p align="center"> We teach and build products that users love</p>
+
+  ## About us
+
+![Screen Shot](https://utfs.io/f/1566a449-267a-424a-ba61-91ea950b3853-fznrx9.png)
+
+DrcMind is an educational platform that focuses on teaching French-speaking developers how to build user-friendly software applications.
+We are specialize in various technologies like Angular, Jetpack Compose, Flutter, Firebase, NextJS, and TailwindCss.
+Beside of teaching, we build products and solutions for our community & clients.
     <br/>
     <p>
     - 🔭 We are currently working on :
@@ -26,12 +30,4 @@
     <br />
   </p>
 </p>
-
-## About us
-
-![Screen Shot](https://utfs.io/f/1566a449-267a-424a-ba61-91ea950b3853-fznrx9.png)
-
-DrcMind is an educational platform that focuses on teaching French-speaking developers how to build user-friendly software applications.
-We are specialize in various technologies like Angular, Jetpack Compose, Flutter, Firebase, NextJS, and TailwindCss.
-Beside of teaching, we build products and solutions for our community & clients.
 
